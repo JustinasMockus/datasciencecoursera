@@ -1,2 +1,2 @@
 # datasciencecoursera
-Brnach for Coursera course - Data Science
+Branch for Coursera course - Data Science
